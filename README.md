@@ -1,6 +1,6 @@
 # Allure Example
 
-> Example of Allure Report usage with spock, groovy v4.0 and Maven
+> Example of Allure Report usage with spock, groovy 4.0 and Maven
 
 <!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
 
@@ -12,4 +12,4 @@
 
 ---
 
-The generated report is available here: [https://allure-examples.github.io/spock-v4.0-maven](https://allure-examples.github.io/spock-v4.0-maven/)
+The generated report is available here: [https://allure-examples.github.io/spock-groovy-4.0-maven](https://allure-examples.github.io/spock-groovy-4.0-maven/)
